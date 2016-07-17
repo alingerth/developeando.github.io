@@ -1,5 +1,5 @@
-Bootstrap
-Font Awesome
-Animate
-jQuery
-WOW
+#Bootstrap
+#Font Awesome
+#Animate
+#jQuery
+#WOW
