@@ -1,4 +1,4 @@
-#Bootstrap
+#BootStrap
 #Font Awesome
 #Animate
 #jQuery
