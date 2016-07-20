@@ -2,4 +2,4 @@
 #Font Awesome
 #Animate
 #jQuery
-#WOW
+#Wow
