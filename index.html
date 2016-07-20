@@ -21,7 +21,7 @@
     <link href="css/animate.min.css" rel="stylesheet">
     
     <!-- Style -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
 
 </head>
 
@@ -80,9 +80,23 @@
 
     <!-- Bootstrap -->
     <script src="js/bootstrap.min.js"></script>
+    
+    <!-- Wow -->
+    <script src="js/wow.min.js"></script>
 
-    <!-- WOW -->
-    <script src="js/bootstrap.min.js"></script>
+    <!-- Main -->
+    <script src="js/main.js"></script>
+
+    <script>
+        wow = new WOW(
+            {
+            animateClass: 'animated',
+            offset:       100
+            }
+        );
+        wow.init();
+
+  </script>
 
 </body>
 
