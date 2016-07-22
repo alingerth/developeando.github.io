@@ -105,6 +105,17 @@ body {
   color: white;
 }
 
+.navbar-custom .pull-right li:hover {
+  color: #58c5c0;
+}
+
+.navbar-custom .pull-right a:hover {
+  color: #58c5c0;
+  outline: none;
+  text-decoration: none;
+}
+
+
 /* HEADER */
 header {
   background-image: url('../img/header/background.jpg');
