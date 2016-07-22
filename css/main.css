@@ -68,20 +68,20 @@ body {
 
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #58c5c0;
+  color: #1dc038;
   outline: none;
 }
 
 .navbar-custom .navbar-nav > .active > a {
   border-radius: 0;
   color: white;
-  background-color: #58c5c0;
+  background-color: #1dc038;
 }
 
 .navbar-custom .navbar-nav > .active > a:hover,
 .navbar-custom .navbar-nav > .active > a:focus {
   color: white;
-  background-color: #58c5c0;
+  background-color: #1dc038;
 }
 
 .navbar-custom .navbar-nav > .active > a {
@@ -106,11 +106,11 @@ body {
 }
 
 .navbar-custom .pull-right li:hover {
-  color: #58c5c0;
+  color: #1dc038;
 }
 
 .navbar-custom .pull-right a:hover {
-  color: #58c5c0;
+  color: #1dc038;
   outline: none;
   text-decoration: none;
 }
