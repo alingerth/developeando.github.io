@@ -2,7 +2,7 @@
 
 /* BODY */
 body {
-  background: 04000013;
+  background: #ededed;
   font-family: 'Ubuntu', sans-serif;
   color: #4e4e4e;
 }
@@ -18,7 +18,7 @@ body {
 }
 
 .navbar-custom.affix {
-  background-color: #1dc038;
+  background-color: #151515;
   padding: 3px 0;
   max-height: 55px;
 }
@@ -52,7 +52,7 @@ body {
 }
 
 .navbar-custom .navbar-brand {
-  color: #58c5c0;
+  color: #1dc038;
 }
 
 .navbar-custom .navbar-brand:hover {
@@ -151,7 +151,7 @@ header .intro .team {
 
 /* FOOTER */
 footer {
-  background: black;
+  background: #151515;
   padding: 25px 0;
   text-align: center;
 }
